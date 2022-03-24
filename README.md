@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **rachitgup02@gmail.com**
 
-<img align="left" width="400" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" >
-<img align="left" width="400" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif">
+<img align="left" width="400" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" >
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
