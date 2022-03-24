@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rachitgup02@gmail.com**
 
-<img src="https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387" frameBorder="0" align="center" class="giphy-embed" allowFullScreen></img>
+<img src="https://www.gif-vif.com/Programmers-can-understand" width="400" height="387" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
