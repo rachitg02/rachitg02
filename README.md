@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rachitgup02@gmail.com**
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/TilmLMmWrRYYHjLfub" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-engineering-anand-TilmLMmWrRYYHjLfub">via GIPHY</a></p>
+<img align="center" width="400" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
