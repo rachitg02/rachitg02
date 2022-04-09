@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 You can connect with me [My links](https://rachitg02.bio.link/)
+- 👨‍💻 You can connect with me [My Socials](https://rachitg02.bio.link/)
 
 - 💬 Ask me about **JavaScript,React,Next,TypeScript**
 
