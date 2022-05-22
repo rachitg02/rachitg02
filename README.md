@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Software Developer from India</h3>
 
 
-
+<div align="center">
 - 🔭 I’m currently working on [NoteIt](https://noteitrachit.netlify.app)
 
 - 🌱 I’m currently learning **Solidity**
@@ -17,7 +17,8 @@
 
 
 
-<img align="left" width="300" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif">
+<img src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif">
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
