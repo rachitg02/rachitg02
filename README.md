@@ -3,17 +3,20 @@
 
 
 <div align="center">
-- 🔭 I’m currently working on [NoteIt](https://noteitrachit.netlify.app)
+ 
+  🔭 I’m currently working on [NoteIt](https://noteitrachit.netlify.app)
 
-- 🌱 I’m currently learning **Solidity**
+  🌱 I’m currently learning **Solidity**
 
-- 📝 I write articles on [https://rachitg.substack.com/](https://rachitg.substack.com/)
+ 
+  📝 I write articles on [https://rachitg.substack.com/](https://rachitg.substack.com/)
 
-- 💬 Ask me about **JavaScript, React.js, CSS, HTML, C/C++**
+  💬 Ask me about **JavaScript, React.js, CSS, HTML, C/C++**
 
-- 📫 How to reach me **rachitgup02@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
+  📫 How to reach me **rachitgup02@gmail.com**
+
+  📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
 
 
 
