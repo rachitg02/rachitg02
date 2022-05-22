@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rachitgup02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
