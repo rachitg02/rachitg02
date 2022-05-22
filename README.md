@@ -12,7 +12,7 @@
 - 📫 How to reach me **rachitgup02@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
-<img align="right" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3bqs8fqskrynw595blr8ev8d2dftiqdu3ygmowa&rid=giphy.gif&ct=g">
+<img align="right" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3bqs8fqskrynw595blr8ev8d2dftiqdu3ygmowa&rid=giphy.gif&ct=g">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
