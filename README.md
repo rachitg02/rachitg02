@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
 
-<img href="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3bqs8fqskrynw595blr8ev8d2dftiqdu3ygmowa&rid=giphy.gif&ct=g"></img>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rachittwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachittwt" height="30" width="40" /></a>
