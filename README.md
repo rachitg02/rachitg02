@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
 <h3 align="center">I am a passionate Software Developer from India</h3>
 
-<img align="center" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3bqs8fqskrynw595blr8ev8d2dftiqdu3ygmowa&rid=giphy.gif&ct=g">
-
 - 🔭 I’m currently working on [NoteIt](https://noteitrachit.netlify.app)
 
 - 🌱 I’m currently learning **Solidity**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **rachitgup02@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
+
+<img align="center" width="200" src="https://media3.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47vre54gh469bvhhdm4gtvn7uumkocdhso3vcagat6&rid=giphy.gif&ct=g">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
