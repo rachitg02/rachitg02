@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
 <h3 align="center">I am a passionate Software Developer from India</h3>
 
-
-<div align="center">
  
   🔭 I’m currently working on [NoteIt](https://noteitrachit.netlify.app)
 
@@ -19,7 +17,7 @@
   📄 Know about my experiences [here](https://drive.google.com/file/d/1ZeORUwUxGlmV0oNrAPVNhcoWRZiIicsA/view?usp=sharing)
 
 
-
+<div align="center">
 <img src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif">
 </div>
 
