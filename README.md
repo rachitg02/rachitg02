@@ -6,8 +6,6 @@
 
   🌱 I’m currently learning **Solidity**
 
- 
-  📝 I write articles on [https://rachitg.substack.com/](https://rachitg.substack.com/)
 
   💬 Ask me about **JavaScript, React.js, CSS, HTML, C/C++**
 
